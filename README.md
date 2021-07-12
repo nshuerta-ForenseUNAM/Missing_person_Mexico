@@ -10,7 +10,7 @@
 
 ##### In this repository you can find:
 
-- ##### [Data](https://pages.github.com/) (Original data and filtered data)
-- ##### [Code](https://pages.github.com/) of several analysis (frequency tables, summary tables, maps and multivariate analysis)
+- ##### [Data](https://github.com/nshuerta-ForenseUNAM/Missing_person_Mexico/tree/Code) (Original data and filtered data)
+- ##### [Code](https://github.com/nshuerta-ForenseUNAM/Missing_person_Mexico/tree/Code) of several analysis (frequency tables, summary tables, maps and multivariate analysis)
 - ##### [Result](https://pages.github.com/)
 
